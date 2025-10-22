@@ -1,5 +1,3 @@
-🧾 Ride Data Analysis Summary
-
 The project focused on analyzing ride-sharing data to extract key insights and patterns. After cleaning the dataset and handling missing values, the analysis explored ride status, service types, and trip trends.
 
 📊 Key Insights:
